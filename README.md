@@ -1,5 +1,8 @@
 # GW2 Boss Timer Plugin
 
+> [!CAUTION]
+> The code of this plugin is 99% written by AI!
+
 A DankMaterialShell plugin that displays Guild Wars 2 world boss spawn timers in your shell bar.
 
 ## Features
